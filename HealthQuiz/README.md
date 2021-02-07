@@ -8,7 +8,7 @@ No True_number
 Question[1: , 2: , 3:]
 
 ・function.h  
-include each functions  
+include each function  
 1.checkfilename(char* name)  
 2.resetfile(char* name, int thismonth, int quizlen)  
 3.txt2csv(char* name, int lastlogmonth)  
