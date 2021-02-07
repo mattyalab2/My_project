@@ -4,7 +4,7 @@ This system output the question that computer randomly selected.
 quiz.txt
 There are many quiestions, are holding 3 elements in quiz.txt file
 
-no true \
+No True_number \
 Question[1: , 2: , 3:]
 
 finction.h
