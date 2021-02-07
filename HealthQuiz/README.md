@@ -1,4 +1,5 @@
-Health management System
+Health management System : Check health knowlege and your condition.
+This system output the question that computer randomly selected.
 
 quiz.txt
 There are many quiestions, are holding 3 elements in quiz.txt file
@@ -14,3 +15,7 @@ include each functions \
 4.getQuizNumber(char* name, int len, int* lastlogmonth) \
 5.getQuizArray(char QuizArray[][BUFSIZE], int CorrectAnsArray[]) \ 
 6.getMonth()
+
+
+quiz.cpp
+this is system controller.
