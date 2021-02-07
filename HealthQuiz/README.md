@@ -19,3 +19,5 @@ include each functions \
 
 HealthQuiz.cpp \
 this is system controller.
+
+![HealthManagement](https://user-images.githubusercontent.com/75316867/107142311-5e585400-6971-11eb-8a2e-c9239b6e3d38.png)
