@@ -17,5 +17,5 @@ include each functions \
 6.getMonth()
 
 
-quiz.cpp
+quiz.cpp \
 this is system controller.
