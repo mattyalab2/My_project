@@ -1,7 +1,7 @@
 
 
 ・CreatAllTable.h  
-include each function.  
+include each lower function.  
 
 CheckTotalTable(Statement* stmt)  
 InsertType1Data(Connection* con, Statement* stmt, char *fname1)  
