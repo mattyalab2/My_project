@@ -1,6 +1,10 @@
 Health management System
 
 quiz.txt
-There are 3 elements in quiz.txt file
+There are format including 3 elements in quiz.txt file
 
-Question
+no true 
+Question[1.., 2.., 3..]
+
+finction.h
+
