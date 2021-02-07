@@ -7,7 +7,7 @@ There are many quiestions, are holding 3 elements in quiz.txt file
 No True_number  
 Question[1: , 2: , 3:]
 
-・function.h
+・function.h  
 include each functions  
 1.checkfilename(char* name)  
 2.resetfile(char* name, int thismonth, int quizlen)  
