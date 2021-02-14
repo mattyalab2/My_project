@@ -1,7 +1,7 @@
 Health management System : Check health knowlege and your condition.  
 This system output the question that computer randomly selected.
 
-・quiz.txt
+・quiz.txt  
 There are many quiestions, are holding 3 elements in quiz.txt file
 
 No True_number  
