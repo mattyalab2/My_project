@@ -1,8 +1,10 @@
 ・IELTS vocabrary book 
 No.1000 - No.3000 words + sample sentences  
 show with random or book order automatically    
-You have to set up random or book order.  
+You have to set up random or book order(main.py L.92 or L.93).  
 
+Subsystem「Seach word」 
+You input a word and you can see 「no + word + sample sentence」.  
 
 ex.  
 1001 behaivior:The secretary was surprised by her colleague's selfish behaiviour.  
