@@ -1,6 +1,7 @@
 ・IELTS vocabrary book 
-No.1000 - No.3000 words + sample sentences show with random or book order automatically  
-You have to set up random or book order. 
+No.1000 - No.3000 words + sample sentences  
+show with random or book order automatically    
+You have to set up random or book order.  
 
 1001 behaivior:The secretary was surprised by her colleague's selfish behaiviour.  
 1002 ensure:Crew members are responsible for ensuring the safety of passengers.  
