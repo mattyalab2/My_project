@@ -9,4 +9,7 @@ No.1000 - No.3000... word + sample sentence
 ...  
 ...  
 
-|![1001](https://user-images.githubusercontent.com/75316867/107874958-852e0180-6f00-11eb-9dd3-4bf5e9fa60ff.png)|![1002](https://user-images.githubusercontent.com/75316867/107874957-84956b00-6f00-11eb-812b-af1a3d2a50e2.png)|![1003](https://user-images.githubusercontent.com/75316867/107874954-83643e00-6f00-11eb-9190-5a3d264d4831.png)
+
+<img src="https://user-images.githubusercontent.com/75316867/107874958-852e0180-6f00-11eb-9dd3-4bf5e9fa60ff.png">
+<img src="https://user-images.githubusercontent.com/75316867/107874957-84956b00-6f00-11eb-812b-af1a3d2a50e2.png">
+<img src="https://user-images.githubusercontent.com/75316867/107874954-83643e00-6f00-11eb-9190-5a3d264d4831.png">
