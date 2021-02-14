@@ -5,7 +5,7 @@ NewsDisplay
 ・display.py
 
 ・news_scrape.py  
-Get all BBC news and 日本経済新聞 each topic from  
+Get all topics from BBC web site and 日本経済新聞 web site using web scraping  
 BBC news: https://www.bbc.co.uk/news  
 日本経済新聞: https://www.nikkei.com/  
 
