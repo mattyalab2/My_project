@@ -39,7 +39,7 @@
 39 income
 40 contract
 41 consider
-42 asttempt
+42 attempt
 43 specific
 44 leading
 45 potential
