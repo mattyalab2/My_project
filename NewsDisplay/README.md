@@ -11,7 +11,7 @@ BBC news: https://www.bbc.co.uk/news
 
 
 ・train_time.py  
-Get train_time of arriving my station of JR 
+Get train_time of arriving my station of JR using web scraping
 
 
 ・worldtime.py  
