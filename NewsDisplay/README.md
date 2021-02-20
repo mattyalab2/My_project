@@ -16,3 +16,6 @@ Get train_time of arriving my station of JR using web scraping
 
 ・worldtime.py  
 Get current time in Tokyo, Berlin, NewYork
+
+
+![News](https://user-images.githubusercontent.com/75316867/108583906-5e4c5100-7380-11eb-8165-a2b52baea343.png)
