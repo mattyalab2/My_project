@@ -1,8 +1,10 @@
 NewsDisplay
 
 ・database.py
+store "日本経済新聞" datas using sqlite database
 
 ・display.py
+Shows all data which is all news and daytime using turtol module
 
 ・news_scrape.py  
 Get all topics from BBC web site and 日本経済新聞 web site using web scraping  
