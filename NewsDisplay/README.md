@@ -1,9 +1,9 @@
 NewsDisplay
 
-・database.py
-store "日本経済新聞" datas using sqlite database
+・database.py  
+Store datas of "日本経済新聞"'s topics using sqlite database
 
-・display.py
+・display.py  
 Shows all data which is all news and daytime using turtol module
 
 ・news_scrape.py  
