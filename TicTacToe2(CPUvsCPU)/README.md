@@ -8,5 +8,5 @@
 3. No win and No lose each other :q
 
 
-・TicTacToe(MinimaxVsMinimax+GUI).ipynb
-include Glaphic User Interface
+・TicTacToe(MinimaxVsMinimax+GUI).ipynb  
+Include Glaphic User Interface
