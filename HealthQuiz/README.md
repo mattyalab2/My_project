@@ -4,8 +4,12 @@ This system output the question that computer randomly selected.
 ・quiz.txt  
 There are many quiestions, are holding 3 elements in quiz.txt file
 
+format
+-------------------------------  
 No True_number  
 Question[1: , 2: , 3:]
+True or False
+-------------------------------  
 
 ・function.h  
 include each function  
