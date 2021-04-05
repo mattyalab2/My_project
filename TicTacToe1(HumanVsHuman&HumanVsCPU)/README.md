@@ -1,6 +1,6 @@
 TicTacToe1
 
-・TicTacToe(TechWithTim).ipynb
+・TicTacToe(TechWithTim).ipynb  
 This is a open source made by Tech With Tim
 URL:
 https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
