@@ -1,4 +1,4 @@
-
+テキストファイルからMySQLにデータを挿入
 
 ・CreatAllTable.h  
 include each lower function.  
