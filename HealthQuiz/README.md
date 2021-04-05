@@ -7,7 +7,7 @@ There are many quiestions, are holding 3 elements in quiz.txt file
 format
 -------------------------------  
 No True_number  
-Question[1: , 2: , 3:]
+Question[1: , 2: , 3:]  
 True or False
 -------------------------------  
 
